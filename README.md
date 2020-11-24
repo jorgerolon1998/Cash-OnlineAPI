@@ -10,7 +10,7 @@ Herramientas necesarias:
 
 Descargando el repositorio:
 
-- git clone git@gitlab.tecso.coop:tecso-public/test-spring-boot-level-1.git
+- git clone https://github.com/jorgerolon1998/Cash-OnlineAPI.git
 
 Para ejecutar la aplicacion utilizando Maven:
 
